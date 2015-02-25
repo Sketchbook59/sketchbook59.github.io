@@ -11,10 +11,10 @@ img: post03.jpg
 thumb: thumb03.jpg
 ---
 
-<b>การถ่ายภาพแนว Portrait</b> แม้นั้นในภาพจะต้องเน้นบุคคลเป็นหลัก แต่เราไม่จำเป็นต้องถ่ายให้เห็นหน้าเป็นหลักก็ได้ คุณสามารถจะถ่ายส่วนไหนของร่างกายก็ได้ตามที่คุณต้องการ โดยภาพที่คุณถ่ายนั้นต้องถ่ายให้สื่อถึงอารมณ์ได้เป็นอย่างดี ไม่ว่าจะเป็นแววตา ท่าทาง แสง บรรยากาศ และที่สำคัญช่างภาพควรจะดึงบุคลิกและความโดดเด่นของนางแบบออกมา .
+<b>การถ่ายภาพแนว Portrait</b> แม้นั้นในภาพจะต้องเน้นบุคคลเป็นหลัก แต่เราไม่จำเป็นต้องถ่ายให้เห็นหน้าเป็นหลักก็ได้ คุณสามารถจะถ่ายส่วนไหนของร่างกายก็ได้ตามที่คุณต้องการ โดยภาพที่คุณถ่ายนั้นต้องถ่ายให้สื่อถึงอารมณ์ได้เป็นอย่างดี ไม่ว่าจะเป็นแววตา ท่าทาง แสง บรรยากาศ และที่สำคัญช่างภาพควรจะดึงบุคลิกและความโดดเด่นของนางแบบออกมา 
 
-It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. <!--more-->
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+สิ่งสำคัญคือถ่ายโดยให้นางแบบเป็นธรรมชาติมากที่สุด อาจจะไม่ต้องจัดท่าทางอะไรมากมาย. <!--more-->
+ปล่อยให้นางแบบโพสท่าทางในแบบที่เป็นตัวเอง และช่างภาพต้องอาศัยจังหวะเผลอๆของนางแบบ ภาพที่ได้ออกมาจะดูเป็นภาพที่ธรรมชาติ.
 
 Contrary to popular belief, <b>Lorem Ipsum is not simply random text</b>. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at [Hampden-Sydney College][hampden] in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.<
 
