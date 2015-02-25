@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Time to change your apps"
-date: 2014-04-25 16:54:46
+title: "เทคนิคการถ่ายภาพหน้าชัดหลังเบลอ"
+date: 2014-09-29 16:54:46
 author: Admin
 categories: 
 - blog 
@@ -11,7 +11,7 @@ img: post01.jpg
 thumb: thumb01.jpg
 ---
 
-<b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+<b>ภาพชัดตื้น</b> นั้นเป็นภาพที่ชัดเจนเฉพาะจุดที่เราโฟกัสเท่านั้น ส่วนจุดอื่นๆที่อยู่หลังตรงจุดที่เราโฟกัสจะเบลอทั้งหมด การถ่ายภาพแบบชัดตื้นนี้เหมาะสำหรับการถ่ายภาพบุคคล หรือวัตถุที่เราต้องการให้เห็นแค่วัตถุชิ้นนั้นเท่านั้น และตัดสิ่งที่ไม่ต้องการให้เห็นในฉากหลักที่รกรุงรังออกไปโดยการเบลอ
 
 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. <!--more-->
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
