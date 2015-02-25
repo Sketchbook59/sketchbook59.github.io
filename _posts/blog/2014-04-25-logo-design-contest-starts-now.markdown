@@ -7,7 +7,7 @@ categories:
 - blog
 - Tips&Tricks
 - Code-Snippets
-img: post03.jpg
+img: post1.jpg
 thumb: thumb03.jpg
 ---
 
