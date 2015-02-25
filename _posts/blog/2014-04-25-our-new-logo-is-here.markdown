@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Our new logo is here"
-date:   2014-04-25 16:54:46
+title:  "แสง Lighting"
+date:   2014-09-12 16:54:46
 author: Admin
 categories: 
 - blog
