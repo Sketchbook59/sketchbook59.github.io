@@ -1,21 +1,31 @@
 ---
 layout: post
-title: "บันทึกการเดินทาง ณ กิ่วแม่ปาน"
-date: 2014-10-25 16:54:46
+title: "Time to change your apps"
+date: 2014-04-25 16:54:46
 author: Admin
 categories: 
 - blog 
 - Wordpress
 - Photoshop
-img: post5.jpg
-thumb: thumb05.jpg
+img: post01.jpg
+thumb: thumb01.jpg
 ---
 
-<b>สวัสดีค่ะ</b> ขอบอกก่อนเลยนะคะว่า ถ้าใครคิดอยากจะเดินป่า แต่ยังไม่พร้อมถึงขั้นผจญภัย ที่นี่เลยค่ะ เหมาะสำหรับผู้หัดที่จะเริ่มเดินขึ้นภูเขา ไม่ชันมาก อากาศค่อนข้างเย็นและชื้น ที่ทางก็เดินสำรวจป่าได้อย่างสบายไม่ลำบากจนเกินไป ขอแนะนำ เส้นทางแห่งความสุข สวรรค์บนดิน กิ่วแม่ปาน อุทยานแห่งชาติดอยอินทนนท์ค่ะ
+<b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
-ระยะทางจากตัวเมืองเชียงใหม่ ถ้าเป็นชาวแบคแพคแล้วล่ะก็ถือว่าเดินทางสะดวกมากค่ะ โดยนั่งรถแดงจากหลังมหาวิทยาลัยเชียงใหม่ ต่อด้วยรถเหลืองนั่งมาจนถึงอำเภอจอมทอง ณ จุดตรงนั้นจะมีบริการรถสองแถวขึ้นพาเที่ยวค่ะ . <!--more-->
+It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. <!--more-->
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-เมื่อถึงคราวต้องขึ้นกิ่วแม่ปานแล้ว ถึงแม้การเดินทางครั้งนี้ จะไม่ใช่ภูเขาที่ท้าทายที่สุด สูงทีสุด แต่มีความประทับใจมากมายระหว่างการเดินทาง ทั้งธรรมชาติ ต้นไม้สัตว์ป่า ไกด์ผู้น่ารักที่ไม่เพียงแต่นำทาง พี่เขายังคุยเก่งสร้างรอบยิ้มและเสียงหัวเราะให้กับพวกเรา และที่สำคัญ ระหว่างทางมีความหมายที่สุด เพราะมีเพื่อนร่วมทางที่ดี 
+Contrary to popular belief, <b>Lorem Ipsum is not simply random text</b>. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at [Hampden-Sydney College][hampden] in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.<
 
+Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+####Why do we use it?
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+
+
+>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
 
 [hampden]: https://github.com/jekyll/jekyll
