@@ -7,7 +7,7 @@ categories:
 - blog 
 - Wordpress
 - Photoshop
-img: post04.jpg
+img: post4.jpg
 thumb: thumb04.jpg
 ---
 
