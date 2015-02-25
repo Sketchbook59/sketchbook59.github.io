@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Faceless Portrait"
-date: 2014-04-25 16:54:46
+date: 2014-08-25 16:54:46
 author: Admin
 categories:
 - blog
@@ -11,7 +11,7 @@ img: post03.jpg
 thumb: thumb03.jpg
 ---
 
-<b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+<b>การถ่ายภาพแนว Portrait</b> แม้นั้นในภาพจะต้องเน้นบุคคลเป็นหลัก แต่เราไม่จำเป็นต้องถ่ายให้เห็นหน้าเป็นหลักก็ได้ คุณสามารถจะถ่ายส่วนไหนของร่างกายก็ได้ตามที่คุณต้องการ โดยภาพที่คุณถ่ายนั้นต้องถ่ายให้สื่อถึงอารมณ์ได้เป็นอย่างดี ไม่ว่าจะเป็นแววตา ท่าทาง แสง บรรยากาศ และที่สำคัญช่างภาพควรจะดึงบุคลิกและความโดดเด่นของนางแบบออกมา .
 
 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. <!--more-->
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
