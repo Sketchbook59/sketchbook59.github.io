@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "บันทึกการเดินทาง ณ กิ่วแม่ปาน(2)"
+title: "บันทึกการเดินทาง ณ กิ่วแม่ปาน2"
 date: 2014-10-13 16:54:46
 author: Admin
 categories: 
 - blog 
 - Wordpress
 - Photoshop
-img: post6.jpg
+img: post01.jpg
 thumb: thumb01.jpg
 ---
 
