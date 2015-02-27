@@ -64,7 +64,7 @@ members:
       - title: envelope #use for email address
         url: mailto:name@domain.com
       - title: twitter
-        url: http://twitter.com/handle
+        url: http://twitter.com/sketchbook59
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "We are Photographer website"
