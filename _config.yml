@@ -55,7 +55,7 @@ members:
       - title: envelope #use for email address
         url: mailto:name@domain.com
       - title: twitter
-        url: http://twitter.com/handle
+        url: http://twitter.com/sketchbook59
   - name: Jan  Sittipol
     position: Marketing & Developer
     text: 
