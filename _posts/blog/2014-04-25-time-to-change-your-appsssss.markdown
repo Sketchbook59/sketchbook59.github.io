@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "รับปริญญา"
+title: "วันแห่งการเริ่มต้น Commencement Day"
 date: 2014-12-02 16:54:46
 author: Admin
 categories: 
@@ -11,18 +11,13 @@ img: post7.jpg
 thumb: thumb07.jpg
 ---
 
-<b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+<b>ทันทีที่เราสำเร็จการศึกษา</b> ก้าวออกจากรั้วมหาวิทยาลัยนั่นยังไม่ใช่ ความสำเร็จสูงสุดหรือหมดหน้าที่ แต่นั่นเป็นการเริ่มต้นชีวิตในอีกรูปแบบ ที่จะเรียกว่าท้าทายก้ได้ หรือใครบางคนจะเรียกมันว่า นี่แหละชีวิตจริง     
 
-It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. <!--more-->
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+ความรับผิดชอบที่ยิ่งใหญ่กว่า ภาระหน้าที่การงานที่ต้องทำ ไหนจะปัญหาอุปสรรคอีกมากมาย แต่บททดสอบเหล่านี้ จะทำให้เราเติบโตเป็นผู้ใหญ่อีกขั้น
 
-Contrary to popular belief, <b>Lorem Ipsum is not simply random text</b>. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at [Hampden-Sydney College][hampden] in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.<
+ในทุกๆปัญหาที่เข้ามา ถ้าเรามองให้เป็นเรื่องเล็ก พร้อมรับมือกับความเปลี่ยนแปลงในชีวิต เข้าใจธรรมชาติของชีวิตว่าในทุกๆโอกาส เรื่องราว ย่อมมีอุปสสรคเป็นเรื่องสามัญธรรมดา 
 
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-####Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
-
+เปลี่ยนมันให้เป็นการสร้างความมั่นใจให้กับตนเอง ให้กำลังใจตนเอง แล้วเราจะต้องผ่านมันไปได้อย่างแน่นอนค่ะ <!--more-->
 
 
 
