@@ -2,7 +2,7 @@
 layout: project
 title:  "Girl Next Station"
 date:   2014-11-25 16:54:46
-author: Marcel Newman
+author: Khim Leena
 categories:
 - project
 img: portfolio_10.jpg
