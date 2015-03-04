@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "อารมณ์ Film อารมณ์ Flare"
+title: "สเน่ห์ของการถ่ายฟิล์ม"
 date: 2014-12-20 16:54:46
 author: Admin
 categories: 
