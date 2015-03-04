@@ -11,7 +11,6 @@ carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-client: Wonder Corp.
 
 ---
 ####Girl Next Station
