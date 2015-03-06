@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "E"
+title:  "pic"
 date:   2014-12-25 16:54:46
 author: Khim Leena
 categories:
