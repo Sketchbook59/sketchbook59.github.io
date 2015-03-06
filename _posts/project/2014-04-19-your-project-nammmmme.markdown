@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "pic"
+title:  "WetLand"
 date:   2014-12-25 16:54:46
 author: Khim Leena
 categories:
@@ -13,5 +13,14 @@ carousel:
 - single15.jpg
 
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+####แสงอรุณ ณ ทะเลสาบ
+
+ถ้าเป็นไปได้เราอยากจะเลือกใช้ชีวิตอยู่กับธรรมชาติ มันทำให้เราดำเนินชีวิตอย่างมีสติ
+อยู่กับปัจจัยที่จำเป็นต่อชีวิต ค้นหาว่ายังมีสิ่งไหนที่เรายังไม่ได้เรียนรู้มันอีกไหม
+เพื่อให้วินาทีสุดท้ายของชีวิต เราจะได้ไม่รู้สึกเสียดาย ที่ยังไม่ได้ใช้ชีวิตอย่างแท้จริง
+
+ตั้งแต่ทำงานถ่ายรูปมาวันนี้เป็นวันที่เราตื่นเช้าที่สุด 04.30 น. 
+เพื่อจะได้เห็นแสงแรกของทะเลน้อย จ.พัทลุง และมีโอกาสได้ล่องเรือ ดื่มด่ำธรรมชาติแบบสุดติ่ง ผู้คนที่นี่ยังใช้ชีวิตแบบเดิม ถึงแม้พวกเขาไม่มีเทคโนโลยีในการใช้ชีวิต พวกเข้าก็ยังสามารถ
+ดำเนินชีวิตเลี้ยงปากเลี้ยงท้อง สร้างรายได้ให้กับตนเองและครอบครัวได้ เชิญชวนมาเที่ยวกันนะคะ ธรรมชาติที่นี่ยังอุดมสมบูรณ์มากๆ
+
+Place: อุทยานแห่งชาติทะเลน้อย
