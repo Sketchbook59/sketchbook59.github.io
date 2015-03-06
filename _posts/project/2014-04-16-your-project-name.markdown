@@ -2,7 +2,7 @@
 layout: project
 title:  "P'Kratae"
 date:   2014-11-30 16:54:46
-author: Marcel Newman
+author: Khim leena
 categories:
 - project
 img: portfolio_09.jpg
