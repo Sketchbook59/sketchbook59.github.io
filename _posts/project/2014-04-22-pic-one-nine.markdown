@@ -1,21 +1,20 @@
 ---
 layout: project
-title:  "pic"
-date:   2014-04-25 16:54:46
-author: Marcel Newman
+title:  "Like Crazy2"
+date:   2014-12-30 16:54:46
+author: Khim Leena
 categories:
 - project
 img: portfolio_03.jpg
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
-client: Wonder Corp.
-website: http://blacktie.co
----
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+- single22.jpg
+- single23.jpg
+- single24.jpg
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+---
+####Closed Friend Portrait
+พบเจอ เห็นหน้าเพื่อนสนิทคนนี้กันเกือบทุกวัน วันนี้เลยถือโอกาสจับเพื่อนคนนี้มาถ่ายรูปซะเลย
+
+Place: ดาดฟ้า ตึกBSC คณะวิทยาศาสตร์ มหาวิทยาลัยสงขลานครินทร์
+
