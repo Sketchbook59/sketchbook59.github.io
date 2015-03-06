@@ -13,5 +13,7 @@ carousel:
 - single09.jpg
 
 ---
+Model: Jan, Lida
 
+Place: MonsDay Cafe
 
