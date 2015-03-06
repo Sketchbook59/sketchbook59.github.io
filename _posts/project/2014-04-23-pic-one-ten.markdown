@@ -1,21 +1,25 @@
 ---
 layout: project
-title:  "pic"
-date:   2014-04-25 16:54:46
-author: Marcel Newman
+title:  "Chiangmai 1st TIME"
+date:   2015-01-15 16:54:46
+author: khim Leena
 categories:
 - project
 img: portfolio_02.jpg
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
-client: Wonder Corp.
-website: http://blacktie.co
----
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+- single25.jpg
+- single26.jpg
+- single27.jpg
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+---
+####Chiangmai 1st TIME
+นี่เป็นการไปเชียงใหม่ครั้งแรกในชีวิตของเรา และมันพิเศษมากจริงๆ สนุกมากๆและ รักที่นี่มากๆ เข้าแล้ว
+
+ขอบคุณทุกๆมิตรภาพใหม่ๆ
+ขอบคุณท้องฟ้าที่มันใสเสียเหลือเกิน ที่ไม่ว่าเราจะหยิบกล้องธรรมดาขึ้นมาถ่ายรูปก็สวยไปหมด 
+ขอบคุณอาหารดีดีทุกมื้อที่นั่น และอาหารอร่อยมากกจากป้าแอล โชคดีจัง
+ขอบคุณอะไรหลายๆอย่างก็แล้วแต่ที่มันอืดพองโตอยู่ในใจ 
+
+เชียงใหม่ แล้วเจอกันอีก
+
