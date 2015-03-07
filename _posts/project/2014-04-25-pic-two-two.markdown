@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "She's pretty Doctor"
+title:  "She's a pretty Doctor"
 date:   2015-01-31 16:54:46
 author: Khim Leena
 categories:
