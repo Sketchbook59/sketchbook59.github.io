@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "PSU Graduation Day2014"
+title:  "She's pretty Doctor"
 date:   2015-01-31 16:54:46
 author: Khim Leena
 categories:
