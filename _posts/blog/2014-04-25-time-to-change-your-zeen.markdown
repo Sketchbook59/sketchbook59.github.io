@@ -6,7 +6,7 @@ author: Admin
 categories: 
 - blog 
 - Wordpress
-- Photoshop
+- Photo
 img: post11.jpg
 thumb: thumb11.jpg
 ---
