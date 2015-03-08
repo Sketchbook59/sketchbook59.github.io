@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Documentary Photography"
+title: "Documentary Photography การถ่ายภาพเชิงสารคดี ตอนที่ 1"
 date: 2015-01-15 16:54:46
 author: Admin
 categories: 
