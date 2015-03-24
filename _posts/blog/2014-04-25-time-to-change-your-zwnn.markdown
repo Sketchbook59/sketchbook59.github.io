@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "มาทำความรู้จักกับ Kinfolk และภาพถ่ายสุดดึงดูดใจ"
-date: 2015-02-02 16:54:46
+title: "บัณฑิตสุดเข้ม"
+date: 2015-02-20 16:54:46
 author: Admin
 categories: 
 - blog 
 - Wordpress
 - Photoshop
-img: post12.jpg
-thumb: thumb12.jpg
+img: post13.jpg
+thumb: thumb13.jpg
 ---
 <b>Kinfolk</b> เป็นนิตยสารแนว Lifestyle ที่กำลังมาแรงในขณะนี้ แน่นอนว่าใครที่กำลังติดตามนิตยสารนี้อยู่จะต้องสะดุดตากับสไตล์การถ่ายภาพ ที่ถ่ายทอดบรรยากาศ และเรื่องราวได้น่าดึงดูดใจ
 
