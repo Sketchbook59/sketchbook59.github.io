@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "เทคนิคการถ่ายภาพด้วย กฎ 3 ส่วน"
+title: "เทคนิคการถ่ายภาพด้วย กฎ 3 ส่วน Rule of Third"
 date: 2015-03-10 16:54:46
 author: Admin
 categories: 
