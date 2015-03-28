@@ -5,6 +5,8 @@ date: 2015-02-25 16:54:46
 author: Admin
 categories: 
 - blog 
+- Wordpress
+- Photoshop
 img: post13.jpg
 thumb: thumb13.jpg
 ---
