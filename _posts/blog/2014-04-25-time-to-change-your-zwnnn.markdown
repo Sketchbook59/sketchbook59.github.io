@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "บัณฑิตสุดเข้ม"
-date: 2015-02-20 16:54:46
+title: "เทคนิคการถ่ายภาพด้วย จุดตัด 9 ช่อง"
+date: 2015-02-25 16:54:46
 author: Admin
 categories: 
 - blog 
