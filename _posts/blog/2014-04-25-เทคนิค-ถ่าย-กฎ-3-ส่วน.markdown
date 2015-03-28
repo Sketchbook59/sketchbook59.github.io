@@ -8,6 +8,7 @@ categories:
 - Wordpress
 - Photoshop
 img: post15.jpg
+img: post16.jpg
 thumb: thumb15.jpg
 ---
 <b>กฎ 3 ส่วนคืออะไร ?</b> 
