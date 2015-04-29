@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Like Crazy"
+title:  "Friend Portrait"
 date:   2014-12-28 16:54:46
 author: Khim leena
 categories:
@@ -17,3 +17,5 @@ carousel:
 พบเจอ เห็นหน้าเพื่อนสนิทคนนี้กันเกือบทุกวัน วันนี้เลยถือโอกาสจับเพื่อนคนนี้มาถ่ายรูปซะเลย
 
 Place: ดาดฟ้า ตึกBSC คณะวิทยาศาสตร์ มหาวิทยาลัยสงขลานครินทร์
+
+ภาพถ่ายบุคคล Sketchbook59
