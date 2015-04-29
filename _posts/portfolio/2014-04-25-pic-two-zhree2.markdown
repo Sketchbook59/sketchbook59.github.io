@@ -8,16 +8,16 @@ categories:
 img: portfolio_13.jpg
 thumb: thumb02.jpg
 carousel:
-- single04.jpg
-- single05.jpg
-- single06.jpg
+- single37.jpg
+- single38.jpg
+- single39.jpg
 
 ---
 ####รับถ่ายรูปงานรับปริญญา
 
 วันแห่งความน่ายินดี งานรับปริญญา 2557
 
-คณะวิทยาการจัดการ มหาวิทยาลัยสงขลานครินทร์
+คณะวิทยาศาสตร์ มหาวิทยาลัยธรรมศาสตร์
 
 สนใจติดต่อถ่ายภาพกับ Sketchbook59 ทุกงาน ทุกโอกาส 
 
