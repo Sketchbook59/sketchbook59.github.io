@@ -12,7 +12,7 @@ carousel:
 - single30.jpg
 
 ---
-####Feel Film
+####Feel Film Portrait ภาพถ่ายบุคคล
 Model: Toei
 
 Place:  สวนวชิรเบญจทัศ (สวนรถไฟ) Vachirabenjatas Park (Rot Fai Park)
@@ -20,3 +20,7 @@ Place:  สวนวชิรเบญจทัศ (สวนรถไฟ) Vachi
 Camera: Praktica Super TL3 + Industar 50-2
 
 Film: Kodak Gold 200
+
+สนใจติดต่อถ่ายภาพกับ Sketchbook59 ทุกงาน ทุกโอกาส งานถ่ายรูปรับปริญญา งานแต่ง กิจกรรม งานอีเว้นท์ event
+
+เบอร์โทรติดต่อ 095 084 1882
