@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "แสง Lighting"
+title:  "ความรู้เรื่องการถ่ายภาพ แสง Lighting"
 date:   2014-09-12 16:54:46
 author: Admin
 categories: 
