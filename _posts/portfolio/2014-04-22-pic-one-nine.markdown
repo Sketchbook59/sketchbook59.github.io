@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Like Crazy2"
+title:  "Friend Portrait2"
 date:   2014-12-30 16:54:46
 author: Khim Leena
 categories:
