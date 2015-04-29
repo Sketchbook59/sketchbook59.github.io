@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "The Innocent"
+title:  "ภาพถ่ายสารคดี"
 date:   2014-12-27 16:54:46
 author: Khim Leena
 categories:
@@ -13,9 +13,11 @@ carousel:
 - single18.jpg
 
 ---
-####The Innocent
+####The Innocent ภาพถ่ายสารคดี
 นัยน์ตาใสซื่อกับรอยยิ้มบริสุทธ์ ของทั้งพี่ชายและน้องสาว
 
 บ่งบอกความสุขง่ายๆ ของชีวิตครอบครัว ที่ชาวเมืองแสวงหาแต่ไม่ค่อยพบ
 
 ชาวป่ามันนิ อ.ป่าบอน จ.พัทลุง
+
+Sketchbook59
